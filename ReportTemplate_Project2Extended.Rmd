@@ -40,10 +40,9 @@ output:
 
 ## Initial Data Analysis (IDA)
 
-
+yaba daba doo
 
 ```{r}
-
 ```
 
 Summary:
